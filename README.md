@@ -1,2 +1,6 @@
-# Tetrika_test
-Test assignments for work will be stored here
+# Тестовые задания на вакансию в компанию Тетрика
+
+Ссылка на вакансию - 
+https://kazan.hh.ru/vacancy/111249949?hhtmFrom=vacancy_response
+
+Условия заданий и их решения находятся в папке под их номерами
